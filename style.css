@@ -1,8 +1,13 @@
+body {
+    background-color:darkslategray;
+}
+
 .container {
     padding-top: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .grid {
@@ -17,6 +22,8 @@
     "one two three equal"
     "zero zero dot equal"
     ;
+    border: 20px solid black;
+    border-radius: 10px;
 }
 
 
